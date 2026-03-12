@@ -12,6 +12,7 @@ Gerar visualização realista da capa
 Exportar o design pronto para produção ou compra
 
 ⚙️ Funcionalidades
+
 👤 Usuário
 Criar conta
 Fazer login e logout
